@@ -1,6 +1,6 @@
 # Cabaña de Papel
 
-Cabañita de papel, 
+La cabaña de papel, 
 el cielo brillante es mi cuna.
 Y mi alarma es el sol.
 
