@@ -1,5 +1,5 @@
 # arte-libre
 
-experiencias de exteriorizar los pensamientos
+Espacio de expresión artística.
 
-Free Art License 1.3
+Todos los trabajos están bajo la licensia Free Art License 1.3
