@@ -1,5 +1,5 @@
-# arte-libre
+# proyecto arte-libre
 
 Espacio de expresión artística.
 
-Todos los trabajos están bajo la licensia Free Art License 1.3
+Todos los trabajos en este proyecto están bajo la licensia Free Art License 1.3
